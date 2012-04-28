@@ -1,0 +1,55 @@
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\bin\Debug\LogTile.dll
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\bin\Debug\LogTile.pdb
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\bin\Debug\Community.CsharpSqlite.dll
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\bin\Debug\MySql.Data.dll
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\bin\Debug\MySql.Web.dll
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\bin\Debug\TerrariaServer.exe
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\bin\Debug\TerrariaServerAPI.dll
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\bin\Debug\TShockAPI.dll
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\bin\Debug\XNAHelpers.dll
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\obj\Debug\LogTile.dll
+C:\Users\Virus\documents\visual studio 2010\Projects\LogTile\LogTile\obj\Debug\LogTile.pdb
+C:\Users\Virus\git\LogTile\LogTile\bin\Debug\LogTile.dll
+C:\Users\Virus\git\LogTile\LogTile\bin\Debug\LogTile.pdb
+C:\Users\Virus\git\LogTile\LogTile\bin\Debug\Community.CsharpSqlite.dll
+C:\Users\Virus\git\LogTile\LogTile\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+C:\Users\Virus\git\LogTile\LogTile\bin\Debug\MySql.Data.dll
+C:\Users\Virus\git\LogTile\LogTile\bin\Debug\MySql.Web.dll
+C:\Users\Virus\git\LogTile\LogTile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Virus\git\LogTile\LogTile\bin\Debug\TerrariaServer.exe
+C:\Users\Virus\git\LogTile\LogTile\bin\Debug\TShockAPI.dll
+C:\Users\Virus\git\LogTile\LogTile\obj\Debug\LogTile.dll
+C:\Users\Virus\git\LogTile\LogTile\obj\Debug\LogTile.pdb
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\bin\Debug\LogTile.dll
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\bin\Debug\LogTile.pdb
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\bin\Debug\Community.CsharpSqlite.dll
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\bin\Debug\MySql.Data.dll
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\bin\Debug\MySql.Web.dll
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\bin\Debug\TerrariaServer.exe
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\bin\Debug\TShockAPI.dll
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\obj\Debug\LogTile.csprojResolveAssemblyReference.cache
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\obj\Debug\LogTile.dll
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\obj\Debug\LogTile.pdb
+C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Virus\git\LogTile\LogTile\obj\Debug\LogTile.csprojResolveAssemblyReference.cache
+C:\Users\Virus\git\LogTile\LogTile\bin\Debug\Mono.Data.Sqlite.dll
+C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\LogTile.dll
+C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\LogTile.pdb
+C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\Community.CsharpSqlite.dll
+C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\MySql.Data.dll
+C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\MySql.Web.dll
+C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\Newtonsoft.Json.dll
+C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\TerrariaServer.exe
+C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\TShockAPI.dll
+C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\Mono.Data.Sqlite.dll
+C:\csProjects\HySpeed-LogTile\LogTile\obj\Debug\ResolveAssemblyReference.cache
+C:\csProjects\HySpeed-LogTile\LogTile\obj\Debug\LogTile.dll
+C:\csProjects\HySpeed-LogTile\LogTile\obj\Debug\LogTile.pdb
+C:\terraria\TShock.DEV\ServerPlugins\LogTile.dll
+C:\terraria\TShock.DEV\ServerPlugins\LogTile.pdb
