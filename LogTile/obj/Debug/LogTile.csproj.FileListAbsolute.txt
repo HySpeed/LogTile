@@ -38,6 +38,7 @@ C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\obj\Debug\L
 C:\Users\Shank\Dropbox\Design and Development\CSharp\LogTile\LogTile\bin\Debug\Mono.Data.Sqlite.dll
 C:\Users\Virus\git\LogTile\LogTile\obj\Debug\LogTile.csprojResolveAssemblyReference.cache
 C:\Users\Virus\git\LogTile\LogTile\bin\Debug\Mono.Data.Sqlite.dll
+<<<<<<< HEAD
 C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\LogTile.dll
 C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\LogTile.pdb
 C:\csProjects\HySpeed-LogTile\LogTile\bin\Debug\Community.CsharpSqlite.dll
@@ -53,3 +54,5 @@ C:\csProjects\HySpeed-LogTile\LogTile\obj\Debug\LogTile.dll
 C:\csProjects\HySpeed-LogTile\LogTile\obj\Debug\LogTile.pdb
 C:\terraria\TShock.DEV\ServerPlugins\LogTile.dll
 C:\terraria\TShock.DEV\ServerPlugins\LogTile.pdb
+=======
+>>>>>>> a06d9f52511525f8de259f44b2ee6949168b0710
