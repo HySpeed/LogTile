@@ -26,7 +26,7 @@ namespace LogTile
 
 		public override Version Version
 		{
-			get { return new Version("1.2.3"); }
+			get { return new Version("1.2.3.2"); }
 		}
 
 		public override string Name

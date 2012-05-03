@@ -1,5 +1,8 @@
 ## LogTile
 
+Ver 1.2.3.2
+* Disabled some chest commands
+
 Ver 1.2.3
 * Updated API to 1, 11
 * Changed permissions to "logtile"

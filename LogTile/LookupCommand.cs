@@ -58,7 +58,7 @@ namespace LogTile
 					  ply.SendMessage(events[i].parseEvent());
 				  }
         } // try
-        catch ( ArgumentOutOfRangeException ex ) 
+        catch ( ArgumentOutOfRangeException exception ) 
         {
           Console.WriteLine( string.Format( "Argument Range Exception! eventsCount: {0}, argsPage: {1}, i: {2}, ply: {3}", 
                                             events.Count, args.page, index, ply.Name ) );
